@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeecfe5e-b412-4a18-b38c-aa9dfc3f857d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/lits-at-031-homeworks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lits-at-031-homeworks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -58,7 +55,7 @@
       <recent name="$PROJECT_DIR$/out/production/Kate_Sobkiv_LITS/Homework1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.Homework3">
     <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework3.Homework3" />
       <module name="lits-at-031-homeworks" />
